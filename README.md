@@ -30,9 +30,17 @@ Data includes:
 
 📊 Dashboard Preview
 
+1- IMG: https://github.com/Anuja-0009/Mobile-Sales-PowerBI-Dashboard/blob/main/mobile_sales1.png
 
+2- IMG: https://github.com/Anuja-0009/Mobile-Sales-PowerBI-Dashboard/blob/main/Mobile_sales2.png
 
+3- IMG: https://github.com/Anuja-0009/Mobile-Sales-PowerBI-Dashboard/blob/main/mtd1.png
 
+4- IMG: https://github.com/Anuja-0009/Mobile-Sales-PowerBI-Dashboard/blob/main/mtd2.png
+
+5 - IMG: https://github.com/Anuja-0009/Mobile-Sales-PowerBI-Dashboard/blob/main/same_period_sales1.png
+
+6 - IMG : https://github.com/Anuja-0009/Mobile-Sales-PowerBI-Dashboard/blob/main/same_period_last2.png
 
 
 🧠 Key Insights
